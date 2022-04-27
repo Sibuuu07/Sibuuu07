@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bholsarbeswar" target="blank"><img src="https://img.shields.io/twitter/follow/bholsarbeswar?logo=twitter&style=for-the-badge" alt="bholsarbeswar" /></a> </p>
 
-- 🔭 I’m currently working on [Arctix WhatsApp-MD bot](https://github.com/Sibuuu07/Arctix)
+- 🔭 I’m currently working on [Arctix WhatsApp-MD bot](https://github.com/Sibuuu07/ArctixBot-MD)
 
 - 🌱 I’m currently learning **Javascript,c,c++,c#**
 
